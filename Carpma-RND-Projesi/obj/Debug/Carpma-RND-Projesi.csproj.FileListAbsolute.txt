@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Carpma-RND-Projesi\Carpma-RND-Projesi\bin\Debug\Carpma-RND-Projesi.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Carpma-RND-Projesi\Carpma-RND-Projesi\bin\Debug\Carpma-RND-Projesi.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Carpma-RND-Projesi\Carpma-RND-Projesi\bin\Debug\Carpma-RND-Projesi.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Carpma-RND-Projesi\Carpma-RND-Projesi\obj\Debug\Carpma-RND-Projesi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Carpma-RND-Projesi\Carpma-RND-Projesi\obj\Debug\Carpma-RND-Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Carpma-RND-Projesi\Carpma-RND-Projesi\obj\Debug\Carpma_RND_Projesi.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Carpma-RND-Projesi\Carpma-RND-Projesi\obj\Debug\Carpma_RND_Projesi.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Carpma-RND-Projesi\Carpma-RND-Projesi\obj\Debug\Carpma-RND-Projesi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Carpma-RND-Projesi\Carpma-RND-Projesi\obj\Debug\Carpma-RND-Projesi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Carpma-RND-Projesi\Carpma-RND-Projesi\obj\Debug\Carpma-RND-Projesi.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Carpma-RND-Projesi\Carpma-RND-Projesi\obj\Debug\Carpma-RND-Projesi.pdb
